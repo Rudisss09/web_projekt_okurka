@@ -23,8 +23,7 @@ CS2 Case Odds Calculator je webová aplikace vytvořená jako školní projekt p
 
 ## Spuštění
 
-1. Stáhni nebo naklonuj projekt.
-2. Otevři soubor `index.html` v prohlížeči.
+
 
 Není potřeba žádná instalace ani server.
 
