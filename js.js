@@ -18,7 +18,7 @@ const ODDS = {
     knife: 0.26
 };
 
-const CASE_PRICE = 2.64;
+const CASE_PRICE = 2.86;
 
 /* =========================================================
    ITEM DATABASE
@@ -26,38 +26,75 @@ const CASE_PRICE = 2.64;
 
 const ITEMS = {
     milspec: [
-        "AK-47 | Elite Build",
-        "MP9 | Food Chain",
-        "P90 | Traction",
+        "M4A4 | Zubastick",
+        "M249 | Bock Blocks",
+        "Zeus x27 | Earth Mandala",
         "Glock-18 | Catacombs",
         "FAMAS | Survivor Z",
         "UMP-45 | Briefing",
         "Nova | Exo",
-        "MAC-10 | Monkeyflage"
+        "MAC-10 | Monkeyflage",
+        "MP9 | Hot Rod",
     ],
 
     restricted: [
-        "AK-47 | Ice Coaled",
-        "USP-S | Cortex",
-        "M4A4 | Tooth Fairy",
-        "MP7 | Bloodsport",
+        "AK-47 | Slate",
         "AWP | Atheris",
-        "Desert Eagle | Light Rail"
+        "Desert Eagle | Light Rail",
+        "M4A4 | The Emperor",
+        "AWP | Phobos",
+        "M4A1-S | Nitro",
+        "M4A4 | Griffin ",
+        "FAMAS | ZX Spectron",
+        "FAMAS | Prime Conspiracy",
+        "P90 | Attack Vector",
+        "Desert Eagle | Blaze", 
     ],
 
     classified: [
-        "AK-47 | Neon Rider",
-        "M4A1-S | Player Two",
-        "AWP | Neo-Noir",
+        "AK-47 | Ice Coaled",
+        "USP-S | Cortex",
+        "M4A4 | Tooth Fairy",
+        "AK-47 | Phantom Disruptor",
+        "AWP | Mortis",
+        "AK-47 | Point Disarray",
+        "AWP | Electric Hive",
         "USP-S | Neo-Noir",
-        "Glock-18 | Vogue"
+        "M4A4 | Cyber Security",
+        "Desert Eagle | Mecha Industries",
+        "AK-47 | Crane Flight",
+        "FAMAS | Mecha Industries",
+        "UMP-45 | Fade",
+        "AK-47 | Case Hardened",
+
     ],
 
     covert: [
         "AK-47 | Bloodsport",
         "AWP | Hyper Beast",
         "M4A4 | Asiimov",
-        "USP-S | Kill Confirmed"
+        "USP-S | Kill Confirmed",
+        "P90 | Death by Kitty",
+        "Desert Eagle | Code Red",
+        "AWP | Medusa",
+        "M4A1-S | Hyper Beast",
+        "Glock-18 | Gamma Doppler",
+        "P250 | See Ya Later",
+        "MP7 | Bloodsport",
+        "Ak-47 |Redline",
+        "AWP | Gungnir",
+        "AK-47 | Wild Lotus",
+        "AK-47 | Gold Arabesque",
+        "AWP | Dragon Lore",
+        "M4A1-S | Welcome to the Jungle",
+        "Desert Eagle | Ocean Drive",
+        "M4A4 | X-Ray",
+        "AK-47 | The Empress",
+        "AWP | Fade",
+        "M4A1-S | Golden Coil",
+        "USP-S | Kill Confirmed",
+
+
     ],
 
     knife: [
@@ -66,7 +103,58 @@ const ITEMS = {
         "M9 Bayonet | Marble Fade",
         "Skeleton Knife | Slaughter",
         "Sport Gloves | Vice",
-        "Driver Gloves | Crimson Weave"
+        "Driver Gloves | Crimson Weave",
+        "Shadow Daggers | Rust Coat",
+        "Huntsman Knife | Blue Steel",
+        "Gut Knife | Tiger Tooth",
+        "M9 Bayonet | Ultra Violet",
+        "Bayonet | Lore",
+        "Gut Knife | Lore",
+        "Karambit | Lore",
+        "Butterfly Knife | Lore",
+        "Shadow Daggers | Lore",
+        "Huntsman Knife | Lore",
+        "M9 Bayonet | Lore",
+        "Bayonet | Fade",
+        "Bayonet | Doppler",
+        "Bayonet | Marble Fade",
+        "Bayonet | Tiger Tooth",
+        "Bayonet | Ultraviolet",
+        "Gut Knife | Fade",
+        "Gut Knife | Doppler",
+        "Gut Knife | Marble Fade",
+        "Gut Knife | Tiger Tooth",
+        "Gut Knife | Ultraviolet",
+        "Karambit | Fade",
+        "Karambit | Doppler",
+        "Karambit | Marble Fade",
+        "Karambit | Tiger Tooth",
+        "Karambit | Ultraviolet",
+        "Butterfly Knife | Doppler",
+        "Butterfly Knife | Marble Fade",
+        "Specialist Gloves | Crimson Kimono",
+        "Specialist Gloves | Pillow Punchers",
+        "Specialist Gloves | Mogul",
+        "Specialist Gloves | Emerald Web",
+        "Sport Gloves | Superconductor",
+        "Sport Gloves | Arid",
+        "Sport Gloves | Haze",
+        "Sport Gloves | Pandora's Box",
+        "Driver Gloves | Lunar Weave",
+        "Driver Gloves | Crimson Weave",
+        "Driver Gloves | King Snake",
+        "Driver Gloves | Overtake",
+        "Driver Gloves | Racing Green",
+        "Shadow Daggers | Fade",
+        "Shadow Daggers | Doppler",
+        "Shadow Daggers | Marble Fade",
+        "Shadow Daggers | Tiger Tooth",
+        "Shadow Daggers | Ultraviolet",
+        "Huntsman Knife | Fade",
+        "Huntsman Knife | Doppler",
+        "Huntsman Knife | Marble Fade",
+        "Huntsman Knife | Tiger Tooth",
+        "Huntsman Knife | Ultraviolet",
     ]
 };
 
