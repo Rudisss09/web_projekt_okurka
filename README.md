@@ -32,7 +32,7 @@ Není potřeba žádná instalace ani server.
 Tento projekt slouží pouze pro vzdělávací účely. Uvedené pravděpodobnosti jsou orientační a simulace negarantuje skutečné výsledky ve hře Counter-Strike 2.
 
 ## Autor
-
+Rudolf Borovka, David Hruška 2IT
 Ročníková práce – Webové technologie (2026)
 
 Projekt není oficiálně spojen se společností Valve Corporation.
