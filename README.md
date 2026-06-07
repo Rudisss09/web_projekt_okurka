@@ -33,6 +33,6 @@ Tento projekt slouží pouze pro vzdělávací účely. Uvedené pravděpodobnos
 
 ## Autor
 
-Ročníková práce – Webové technologie (2025)
+Ročníková práce – Webové technologie (2026)
 
-Projekt není oficiálně spojen se společností :contentReference[oaicite:0]{index=0}.
+Projekt není oficiálně spojen se společností Valve Corporation.
