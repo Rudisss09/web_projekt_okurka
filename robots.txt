@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rudisss09.github.io/web_projekt_okurka/sitemap.xml
